@@ -1,6 +1,12 @@
 # bodyparser
 A very simple http request body parser. (That won't fail on invalid request-encoding header...)
 
+## Get it from npm
+
+```
+npm install --save @aeinbu/bodyparser
+```
+
 ## How to use with express web server
 
 ```
