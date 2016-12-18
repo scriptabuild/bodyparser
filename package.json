@@ -1,0 +1,30 @@
+{
+	"name": "@aeinbu/bodyparser",
+	"version": "0.0.1",
+	"description": "Utility to parse the body of an http request.",
+	"main": "index.js",
+	"directories": {
+		"test": "tests"
+	},
+	"scripts": {
+		"test": "node tests/tests"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/scriptabuild/bodyparser.git"
+	},
+	"keywords": [
+		"http",
+		"request",
+		"body",
+		"parse",
+		"json",
+		"raw"
+	],
+	"author": "Arjan Einbu <arjan@einbu.no>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/scriptabuild/bodyparser/issues"
+	},
+	"homepage": "https://github.com/scriptabuild/bodyparser#readme"
+}
